@@ -1,0 +1,19 @@
+import turtle
+import time
+navdeep_turtle=turtle.Turtle()
+
+navdeep_turtle.forward(100)
+time.sleep(2)
+navdeep_turtle.right(90)
+time.sleep(2)
+navdeep_turtle.forward(100)
+time.sleep(2)
+navdeep_turtle.right(90)
+time.sleep(2)
+navdeep_turtle.forward(100)
+time.sleep(2)
+navdeep_turtle.right(90)
+time.sleep(2)
+navdeep_turtle.forward(100)
+navdeep_turtle.circle(100)
+done()
